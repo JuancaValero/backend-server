@@ -24,3 +24,6 @@ app.get('/:tipo/:img', (req, res, next) => {
 });
 
 module.exports = app;
+
+// id 627075770790-c5jf2tln3n6sl30pmjuavr36tk6tgt49.apps.googleusercontent.com
+// secret AZFKZhZ7F4rj94K_-pTVRLm7
